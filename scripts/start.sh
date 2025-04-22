@@ -1,6 +1,6 @@
 #!/bin/bash
 nomeApp="<NOME-APP>"
-cd /appdir
+cd /data/app
 npm install
 
 sudo supervisord
