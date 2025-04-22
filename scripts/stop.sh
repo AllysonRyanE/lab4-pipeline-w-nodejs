@@ -1,4 +1,4 @@
 #!/bin/bash
-nomeApp="<NOME-APP>"
+nomeApp="lab4-pipeline-w-nodejs"
 
 sudo supervisorctl stop $nomeApp
