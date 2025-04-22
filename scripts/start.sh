@@ -1,6 +1,6 @@
 #!/bin/bash
-nomeApp="<NOME-APP>"
-cd /data/app
+nomeApp="lab4-pipeline-w-nodejs"
+cd /data/app/
 npm install
 
 sudo supervisord
